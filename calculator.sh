@@ -4,4 +4,4 @@ num2=22
 sum=$(expr $num1 + $num2)
 echo $sum
 testing from github
-added new features_1
+added new features_1.2
